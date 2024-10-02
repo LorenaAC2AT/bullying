@@ -1,0 +1,62 @@
+.cabeçalho{
+    background-color: #23232e;
+    display: flex;
+    justify-content: center;
+}
+.PR{
+    height: 150px;
+}
+.sobre{
+    background-color: #23232e;
+    display: flex;
+    justify-content: center;
+}
+.links{
+    color: aliceblue;
+}
+.helpme{
+    padding-top: 20px;
+}
+
+.botonetas{
+    padding-top: 20px;
+}
+.rojo{
+    color: aliceblue;
+    background-color: #c80000;
+    border: none;
+    height: 50px;
+    width: 300px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.azul{
+    color: aliceblue;
+    background-color: #003ec8;
+    border: none;
+    height: 50px;
+    width: 300px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.títulos{
+    color: #217B96;
+    font-size: 30px;
+}
+p{
+    color: black;
+}
+.linkproj{
+    text-decoration: underline;
+    color: #217B96;
+}
+.texto{
+    font-size: 20px;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+    font-size: 20px;
+}
